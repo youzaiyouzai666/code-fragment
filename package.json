@@ -1,0 +1,17 @@
+{
+  "name": "code-fragment",
+  "version": "0.0.0",
+  "description": "code fragment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youzaiyouzai666/code-fragment.git"
+  },
+  "author": "caoyi",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "367cb6fbe057d0b907e54f7cf52aa34e2dceecc2"
+}
